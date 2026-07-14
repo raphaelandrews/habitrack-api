@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Habitrack.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4501ea2bf9a16522af293f479135fdbac4ec51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+520f04998afc52f835c3441993642c4460fc2b6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Habitrack.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Habitrack.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
