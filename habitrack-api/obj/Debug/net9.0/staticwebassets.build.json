@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MwpapT6gpnSmS+SO3CtI9Uf5ha7WYGWUZrCuFsd12LQ=",
+  "Source": "Habitrack.Api",
+  "BasePath": "_content/Habitrack.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
